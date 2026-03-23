@@ -1,5 +1,9 @@
+def Sadit():
+    print("Soy Sadit")
+
 def main():
     print("Hola mundo")
+    Sadit()
 
-if __name__ == "__main__":
+if _name_ == "_main_":
     main()
