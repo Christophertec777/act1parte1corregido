@@ -3,6 +3,7 @@ def gerry():
 
 def main():
     print("Hola mundo")
+    gerry()
 
 if __name__ == "__main__":
     main()
