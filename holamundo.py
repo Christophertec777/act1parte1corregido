@@ -6,6 +6,7 @@ def gerry():
 
 def chris():
     print("Soy Chris")
+    
 def sergio():
     print("Soy sergio")
     
@@ -15,5 +16,6 @@ def main():
     gerry()
     Sadit()
     sergio()
+    
 if __name__ == "__main__":
     main()
