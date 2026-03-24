@@ -1,9 +1,9 @@
-def Sadit():
-    print("Soy Sadit")
+def sergio():
+    print("Soy sergio")
 
 def main():
     print("Hola mundo")
-    Sadit()
+    sergio()
 
 if _name_ == "_main_":
     main()
