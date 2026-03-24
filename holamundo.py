@@ -1,3 +1,6 @@
+def gerry():
+    print("Soy Gerardo Verdugo Ponce")
+
 def main():
     print("Hola mundo")
 
